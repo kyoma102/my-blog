@@ -15,11 +15,11 @@ Gmail 里躺着 1000+ 封未读邮件，需要自动化批量清理的方法。�
 1. 传送门：[https://script.google.com](https://script.google.com/)
 2. 新建项目
 
-![image.png](attachment:c1541a64-cbcf-49c6-99e4-29a1713c6183:image.png)
+![image 1](/assets/gas-tutorial/image 1.png)
 
-1. 编辑器 - 文件，新建一个脚本，粘贴以下代码：
+3. 编辑器 - 文件，新建一个脚本，粘贴以下代码：
 
-![image.png](attachment:753896e6-936c-4dfa-afb5-2b772afc663f:image.png)
+![image 2](/assets/gas-tutorial/image 2.png)
 
 ```jsx
 function markAllEmailsAsRead() {
@@ -39,6 +39,6 @@ function markAllEmailsAsRead() {
 }
 ```
 
-1. 点击运行，执行日志会有 log 输出，等待脚本执行完毕即可
+4. 点击运行，执行日志会有 log 输出，等待脚本执行完毕即可
 
-![image.png](attachment:9f60f17d-7a62-44f5-8dee-a84bfa5748c1:image.png)
+![image.png](/assets/gas-tutorial/image.png)
