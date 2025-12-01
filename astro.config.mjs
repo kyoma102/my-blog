@@ -7,9 +7,7 @@ import rehypeExternalLinks from 'rehype-external-links'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://kyoma102.github.io/my-blog',
-  base: '/my-blog',
-  trailingSlash: 'always',
+  site: 'https://kyoma102.github.io',
   integrations: [mdx(), svelte()],
   markdown: {
     shikiConfig: {
