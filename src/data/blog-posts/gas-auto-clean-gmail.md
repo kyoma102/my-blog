@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: GAS 自动清理 Gmail 未读邮件
-=======
 title: GAS自动清理Gmail未读邮件
->>>>>>> 9d197fe (add gas blog post and remove author bio)
 slug: gas-auto-clean-gmail
 publishDate: 01 Dec 2025
 ---
